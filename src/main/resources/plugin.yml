@@ -1,0 +1,4 @@
+name: FeltGUI
+version: '${project.version}'
+main: com.person98.feltgui.FeltGUI
+api-version: 1.19
